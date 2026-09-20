@@ -1,0 +1,3 @@
+/Users/yyc/.codex/rm作业/build/CMakeFiles/hello.dir
+/Users/yyc/.codex/rm作业/build/CMakeFiles/edit_cache.dir
+/Users/yyc/.codex/rm作业/build/CMakeFiles/rebuild_cache.dir
