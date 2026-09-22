@@ -22,7 +22,11 @@ cmake --build build
 
 
 ## 5. 运行结果
-执行运行命令：  
+执行运行命令：
 ```bash
 ./build/hello
-- 终端输出：Hello! RoboMaster!
+```
+
+- 终端输出：Hello, RoboMaster!
+
+![运行成功截图](images/success.png)
