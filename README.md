@@ -21,7 +21,8 @@ cmake -S . -B build
 cmake --build build
 
 
-## 5. 预期结果
-执行‘。/build/hello',终端输出:
-'''text
-——“Hello, RoboMaster!"
+## 5. 运行结果
+执行运行命令：  
+```bash
+./build/hello
+- 终端输出：Hello! RoboMaster!
